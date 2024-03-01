@@ -1,4 +1,4 @@
-# hackathon-sshortet
+# hackathon-shorts
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
@@ -11,6 +11,7 @@ The goal of this hackathon is to create a video as similar as  possible to this 
 ## Steps
 
 1) Choose a LEGO® BrickHeadz™ kit.
+
 
 
 > <small>LEGO, the LEGO logo and the Minifigure are trademarks of the LEGO Group.
