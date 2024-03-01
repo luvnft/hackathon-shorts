@@ -3,7 +3,7 @@
 Instructions for the [BrickMMO Short Video Hackathon](https://brickmmo.github.io/hackathon-short/).
 
 > This repo is available to view at  
-> [https://brickmmo.github.io/hackathon-set/](https://brickmmo.github.io/hackathon-set/)
+> [https://brickmmo.github.io/hackathon-short/](https://brickmmo.github.io/hackathon-short/)
 
 ---
 
