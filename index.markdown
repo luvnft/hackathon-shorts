@@ -10,9 +10,19 @@ The goal of this hackathon is to create a video as similar as  possible to this 
 
 ## Steps
 
-1) Choose a LEGO® BrickHeadz™ kit.
+1) Watch the sample video multiple times. Pay attention to the lighting, sounds, camera placement, etc...
 
+2) Choose a LEGO® BrickHeadz™ kit.
 
+    ![Disney 100th Celebration BrickHeadz](images/brickheadz.png)
+
+    > <small>LEGO (n.d.). LEGO Disney 100th Celebration. Retrieved March 2, 2024, from https://www.lego.com/en-ca/product/disney-100th-celebration-40622</small>
+
+3) Prepare your photo environment. Use the following setup:
+
+    ![Equipment Layout](images/layout.png)
+
+4) 
 
 > <small>LEGO, the LEGO logo and the Minifigure are trademarks of the LEGO Group.
 > LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
