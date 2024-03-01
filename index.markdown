@@ -12,4 +12,6 @@ The goal of this hackathon is to create a video as similar as  possible to this 
 
 1) Choose a LEGO® BrickHeadz™ kit.
 
-2) 
+
+> <small>LEGO, the LEGO logo and the Minifigure are trademarks of the LEGO Group.</small>
+> <small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
