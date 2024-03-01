@@ -2,5 +2,14 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-The [BrickMMO](http://brickmmo.com/) needs you help making videos for the [BrickMMO TikTok]() and [BrickMMO Instagram]() channels. 
+[BrickMMO](http://brickmmo.com/) needs your help making videos for the [BrickMMO TikTok](https://www.tiktok.com/@brickmmo) and [BrickMMO Instagram](https://www.instagram.com/brickmmo) channels. 
 
+The goal of this hackathon is to create a video as similar as  possible to this video:
+
+
+
+## Steps
+
+1) Choose a LEGO® BrickHeadz™ kit.
+
+2) 
