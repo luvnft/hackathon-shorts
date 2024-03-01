@@ -1,9 +1,9 @@
 # Short Video Hackathon
 
-Instructions for the [BrickMMO Short Video Hackathon](https://brickmmo.github.io/hackathon-short/).
+Instructions for the [BrickMMO Short Video Hackathon](https://brickmmo.github.io/hackathon-shorts/).
 
 > This repo is available to view at  
-> [https://brickmmo.github.io/hackathon-short/](https://brickmmo.github.io/hackathon-short/)
+> [https://brickmmo.github.io/hackathon-shorts/](https://brickmmo.github.io/hackathon-shorts/)
 
 ---
 
@@ -17,7 +17,7 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 
 ## Repo Resources
 
-- [BrickMMO Short Video Hackathon](https://brickmmo.github.io/hackathon-short/)
+- [BrickMMO Short Video Hackathon](https://brickmmo.github.io/hackathon-shorts/)
 - [GitHub - About README.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
 <a href="https://brickmmo.com">
