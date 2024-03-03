@@ -2,17 +2,19 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-[BrickMMO](http://brickmmo.com/) needs your help making videos for the [BrickMMO TikTok](https://www.tiktok.com/@brickmmo) and [BrickMMO Instagram](https://www.instagram.com/brickmmo) channels. 
+[BrickMMO](http://brickmmo.com/) needs your help making videos for the [BrickMMO TikTok](https://www.tiktok.com/@brickmmo) and [BrickMMO Instagram](https://www.instagram.com/brickmmo) channels. The goal of this hackathon is to create a video as similar as  possible to this video:
 
-The goal of this hackathon is to create a video as similar as  possible to this video:
+<video src="videos/jake-sully-brickheadz.mp4" width="360"></video>
 
-
+You will be provided with the [Adobe Premiere]() file that was used to create the original video. This will include the intro and outro, audio and video clips that can be reused, and the original timeline. 
 
 ## Steps
 
-1) Watch the sample video multiple times. Pay attention to the lighting, sounds, camera placement, etc...
+### Day One: Shooting
 
-2) Choose a LEGO® BrickHeadz™ kit.
+1) Watch the sample video multiple times. Pay attention to the lighting, sounds, camera placement, timing, etc...
+
+2) Choose a LEGO® BrickHeadz™ kit provided in class.
 
     ![Disney 100th Celebration BrickHeadz](images/brickheadz.png)
 
@@ -22,7 +24,45 @@ The goal of this hackathon is to create a video as similar as  possible to this 
 
     ![Equipment Layout](images/layout.png)
 
-4) 
+4) Shoot the video. Include the following shots:
+
+    - Dropping the kit into the frame
+    - Opening the box using a box cutter
+    - Dumping out the contents of the box
+    - Dumping out the contents of one of the bags
+    - Looking through the instructions
+    - Bulding the LEGO® kit (about 12 shots)
+    - The completed LEGO® kit on the table
+    - The original LEGO® box
+    - The compelted LEGO® kit in your hand
+
+### Day Two: Editing
+
+1) Download the original [Adobe Premiere]() file. 
+
+2) Import your shots into the Premiere file.
+
+3) Attempt to replicate the original video as close as possible. 
+
+4) Export your video as a 1080 pixel wide x 1920 pixel high vertical video.
+
+## Submission and Presentation
+
+When you have completed the video, Zip up your Adobe Premiere file and final video and email them to your instructor. 
+
+Once we have received all video submissions we will meetup again at the beginning of class, present the videos, and choose a winner! The winning group will receive one of the many LEGO® GWP kits. 
+
+![LEGO® GWP](images/lego-gwp.png)
+
+> <small>LEGO (n.d.). Micro Rocket Launchpad. Retrieved March 2, 2024, from https://www.lego.com/en-ca/product/micro-rocket-launchpad-40712  
+> LEGO (n.d.). LEMicro NINJAGO® City. Retrieved March 2, 2024, from https://www.lego.com/en-us/product/micro-ninjago-city-40703  
+> LEGO (n.d.). Scary Pirate Island. Retrieved March 2, 2024, from https://www.lego.com/en-ca/product/scary-pirate-island-40597</small>
 
 > <small>LEGO, the LEGO logo and the Minifigure are trademarks of the LEGO Group.
 > LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
