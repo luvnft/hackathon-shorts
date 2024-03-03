@@ -4,7 +4,7 @@
 
 [BrickMMO](http://brickmmo.com/) needs your help making videos for the [BrickMMO TikTok](https://www.tiktok.com/@brickmmo) and [BrickMMO Instagram](https://www.instagram.com/brickmmo) channels. The goal of this hackathon is to create a video as similar as  possible to this video:
 
-<video width="360" controls>
+<video width="270" controls>
     <source src="videos/jake-sully-brickheadz.mp4" type="video/mp4">
 </video>
 
