@@ -36,15 +36,15 @@ One three hour session for shooting. This will take place at Humber in the Virtu
 
 5) Shoot the video. Include the following shots:
 
-    - Dropping the kit into the frame
-    - Opening the box using a box cutter
-    - Dumping out the contents of the box
-    - Dumping out the contents of one of the bags
-    - Looking through the instructions
-    - Bulding the LEGO® kit (about 12 shots)
-    - The completed LEGO® kit on the table
-    - The original LEGO® box
-    - The compelted LEGO® kit in your hand
+  - Dropping the kit into the frame
+  - Opening the box using a box cutter
+  - Dumping out the contents of the box
+  - Dumping out the contents of one of the bags
+  - Looking through the instructions
+  - Bulding the LEGO® kit (about 12 shots)
+  - The completed LEGO® kit on the table
+  - The original LEGO® box
+  - The compelted LEGO® kit in your hand
 
 ### Day Two: Editing
 
