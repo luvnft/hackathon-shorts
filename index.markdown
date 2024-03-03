@@ -24,17 +24,21 @@ One three hour session for shooting. This will take place at Humber in the Virtu
 
 1) Watch the sample video multiple times. Pay attention to the lighting, sounds, camera placement, timing, etc...
 
-2) Choose a LEGO® Brickheadz™ kit provided in class.
+2) Choose a LEGO® Brickheadz™ kit provided by your instructor.
 
     ![Disney 100th Celebration BrickHeadz](images/brickheadz.png)
 
+    <img src="images/brickheadz.png">
+
     > <small>LEGO (n.d.). LEGO Disney 100th Celebration. Retrieved March 2, 2024, from https://www.lego.com/en-ca/product/disney-100th-celebration-40622</small>
 
-3) Prepare your photo environment. Use the following setup:
+4) Prepare your photo environment. Use the following setup:
 
     ![Equipment Layout](images/layout.png)
 
-4) Shoot the video. Include the following shots:
+    <img src="images/layout.png">
+
+5) Shoot the video. Include the following shots:
 
     - Dropping the kit into the frame
     - Opening the box using a box cutter
