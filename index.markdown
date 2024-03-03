@@ -2,13 +2,17 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-[BrickMMO](http://brickmmo.com/) needs your help making videos for the [BrickMMO TikTok](https://www.tiktok.com/@brickmmo) and [BrickMMO Instagram](https://www.instagram.com/brickmmo) channels. The goal of this hackathon is to create a video as similar as  possible to this video:
+[BrickMMO](http://brickmmo.com/) needs your help making videos for the [BrickMMO TikTok](https://www.tiktok.com/@brickmmo) and [BrickMMO Instagram](https://www.instagram.com/brickmmo) channels. The goal of this hackathon is to create a video as similar as possible to this short video:
 
 <video width="270" controls>
     <source src="videos/jake-sully-brickheadz.mp4" type="video/mp4">
 </video>
 
-You will be provided with the [Adobe Premiere]() file that was used to create the original video. This will include the intro and outro, audio and video clips that can be reused, and the original timeline. 
+You will be provided with everything you need to shoot and edit this video within three to six hours. This includes:
+
+ - The [Adobe Premiere]() file that was used to create the original video. This will include the intro and outro, audio and video clips that can be reused, and the original timeline. 
+ - A new sealed LEGO kit.
+ - Lighting, camera, tripod, backdrop, and table.
 
 ## Steps
 
@@ -16,7 +20,7 @@ You will be provided with the [Adobe Premiere]() file that was used to create th
 
 1) Watch the sample video multiple times. Pay attention to the lighting, sounds, camera placement, timing, etc...
 
-2) Choose a LEGO® BrickHeadz™ kit provided in class.
+2) Choose a LEGO® Brickheadz™ kit provided in class.
 
     ![Disney 100th Celebration BrickHeadz](images/brickheadz.png)
 
