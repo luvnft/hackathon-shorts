@@ -16,6 +16,10 @@ You will be provided with everything you need to shoot and edit this video withi
 
 ## Steps
 
+This hackathon will likely include three sessions. 
+
+One three hour session for shooting. This will take place at Humber in the Virtual Propduction room CTI307. One three hour session for editing. This will take place during a regular class. And finally a short 20 minute session to present the videos and choose a winner!
+
 ### Day One: Shooting
 
 1) Watch the sample video multiple times. Pay attention to the lighting, sounds, camera placement, timing, etc...
@@ -56,7 +60,7 @@ You will be provided with everything you need to shoot and edit this video withi
 
 When you have completed the video, Zip up your Adobe Premiere file and final video and email them to your instructor. 
 
-Once we have received all video submissions we will meetup again at the beginning of class, present the videos, and choose a winner! The winning group will receive one of the many LEGO® GWP kits. 
+Once we have received all video submissions we will meetup again at the beginning of a regular class, present the videos, and choose a winner! The winning group will receive one of the many LEGO® GWP kits. 
 
 ![LEGO® GWP](images/lego-gwp.png)
 
