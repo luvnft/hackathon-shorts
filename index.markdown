@@ -10,7 +10,7 @@
 
 You will be provided with everything you need to shoot and edit this video within three to six hours. This includes:
 
- - The [Adobe Premiere]() file that was used to create the original video. This will include the intro and outro, audio and video clips that can be reused, and the original timeline. 
+ - The [Adobe Premiere] file that was used to create the original video. This will include the intro and outro, audio and video clips that can be reused, and the original timeline. 
  - A new sealed LEGO kit.
  - Lighting, camera, tripod, backdrop, and table.
 
@@ -48,7 +48,7 @@ One three hour session for shooting. This will take place at Humber in the Virtu
 
 ### Day Two: Editing
 
-1) Download the original [Adobe Premiere]() file. 
+1) Download the original [Adobe Premiere] file. 
 
 2) Import your shots into the Premiere file.
 
