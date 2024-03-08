@@ -60,7 +60,7 @@ One three hour session for shooting. This will take place at Humber in the Virtu
 
 When you have completed the video, Zip up your Adobe Premiere file and final video and email them to your instructor. 
 
-Once we have received all video submissions we will meetup again at the beginning of a regular class, present the videos, and choose a winner! The winning group will receive one of the many LEGO® GWP kits. 
+Once we have received all video submissions we will meet up again at the beginning of a regular class, present the videos, and choose a winner! The winning group will receive one of the many LEGO® GWP kits. 
 
 ![LEGO® GWP](images/lego-gwp.png)
 
