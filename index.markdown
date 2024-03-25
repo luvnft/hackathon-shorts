@@ -18,7 +18,7 @@ You will be provided with everything you need to shoot and edit this video withi
 
 This hackathon will likely include three sessions. 
 
-One three hour session for shooting. This will take place at Humber in the Virtual Propduction room CTI307. One three hour session for editing. This will take place during a regular class. And finally a short 20 minute session to present the videos and choose a winner!
+One three hour session for shooting. This will take place at Humber in the Virtual Production room CTI307. One three hour session for editing. This will take place during a regular class. And finally a short 20 minute session to present the videos and choose a winner!
 
 ### Day One: Shooting
 
